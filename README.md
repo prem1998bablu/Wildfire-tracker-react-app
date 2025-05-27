@@ -36,6 +36,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+### Google API
+you can add your api key to an .env file and then get that key in your Maps.js file. This way your key wont be exposed, and adds security.
+
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
